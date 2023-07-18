@@ -10,6 +10,8 @@ steps to run this project:-
 
 --> suitable for low to medium sized organiztions
 
+.................................................................................................................................................
+
 dependencies required:
 
 face_recognition: This is a Python library for face recognition and facial feature detection. It can be installed using pip install face_recognition.
